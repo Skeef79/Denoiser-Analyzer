@@ -1,0 +1,15 @@
+{
+    "clean_speech_dir": "common_voice_test_1000",
+    "noise_dir": "noise",
+    "transcriptions": "test.tsv",
+    "noise_types": [
+        "Neighbor",
+        "Babble",
+        "Cafe",
+        "Office",
+        "Restaurant",
+        "Park"
+    ],
+    "snr": 0,
+    "results_dir": "example_noises_snr#0"
+}
